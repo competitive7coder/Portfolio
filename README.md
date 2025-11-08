@@ -48,13 +48,6 @@ npm run build
 npm run preview
 ```
 
-## Customization
-
-1. Update your personal information in the components
-2. Add your projects in `src/components/Projects.jsx`
-3. Update social links in `src/components/Hero.jsx` and `src/components/Footer.jsx`
-4. Modify colors in `tailwind.config.js`
-5. Replace contact information in `src/components/Contact.jsx`
 
 ## License
 
